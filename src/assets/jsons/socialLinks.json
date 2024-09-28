@@ -1,0 +1,181 @@
+[
+    {
+        "type" : "Instagram",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/instagram.png",
+        "keywords" : ["instagram.com"]
+    },
+    {
+        "type" : "X",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/x.png",
+        "keywords" : ["x.com" , "twitter.com"]
+    },
+    {
+        "type" : "LinkedIn",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/linkedIn.png",
+        "keywords" : ["linkedin.com"]
+    },
+    {
+        "type" : "Github",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/github.png",
+        "keywords" : ["github.com"]
+    },
+    {
+        "type" : "Youtube",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/youtube.png",
+        "keywords" : ["youtube.com"]
+    },
+    {
+        "type" : "Behance",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/behance.png",
+        "keywords" : ["behance.net"]
+    },
+    {
+        "type" : "Stack Overflow",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/stackoverflow.png",
+        "keywords" : ["stackoverflow.com"]
+    },
+    {
+        "type" : "Codepen",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/codepen.png",
+        "keywords" : ["codepen.io"]
+    },
+    {
+        "type" : "AngelList",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/angelList.png",
+        "keywords" : ["angellist.com"]
+    },
+    {
+        "type" : "GitLab",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/gitlab.png",
+        "keywords" : ["gitlab.com"]
+    },
+    {
+        "type" : "Freelancer",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/freelancer.png",
+        "keywords" : ["freelancer.in"]
+    },
+    {
+        "type" : "Upwork",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/upwork.png",
+        "keywords" : ["upwork.com"]
+    },
+    {
+        "type" : "Kaggle",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/kaggle.png",
+        "keywords" : ["kaggle.com"]
+    },
+    {
+        "type" : "HackerRank",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/hackerrank.png",
+        "keywords" : ["hackerrank.com"]
+    },
+    {
+        "type" : "Codecademy",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/codecademy.png",
+        "keywords" : ["codecademy.com"]
+    },
+    {
+        "type" : "Dribbble",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/dribbble.png",
+        "keywords" : ["dribbble.com"]
+    },
+    {
+        "type" : "DeviantArt",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/deviantart.png",
+        "keywords" : ["deviantart.com"]
+    },
+    {
+        "type" : "Medium",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/medium.png",
+        "keywords" : ["medium.com"]
+    },
+    {
+        "type" : "WordPress",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/wordpress.png",
+        "keywords" : ["wordpress.com"]
+    },
+    {
+        "type" : "ArtStation",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/artstation.png",
+        "keywords" : ["artstation.com"]
+    },
+    {
+        "type" : "Product Hunt",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/producthunt.png",
+        "keywords" : ["producthunt.com"]
+    },
+    {
+        "type" : "Vimeo",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/vimeo.png",
+        "keywords" : ["vimeo.com"]
+    },
+    {
+        "type" : "Google Sites",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/google.png",
+        "keywords" : ["sites.google.com" , "google.com"]
+    },
+    {
+        "type" : "Notion",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/notion.png",
+        "keywords" : ["notion.so"]
+    },
+    {
+        "type" : "Coderwall",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/coderwall.png",
+        "keywords" : ["coderwall.com"]
+    },
+    {
+        "type" : "SlideShare",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/slideshare.png",
+        "keywords" : ["slideshare.net"]
+    },
+    {
+        "type" : "Instructables",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/instructables.png",
+        "keywords" : ["instructables.com"]
+    },
+    {
+        "type" : "Hackster.io",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/hackster.png",
+        "keywords" : ["hackster.io"]
+    },
+    {
+        "type" : "Coroflot",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/coroflot.png",
+        "keywords" : ["coroflot.com"]
+    },
+    {
+        "type" : "Sketchfab",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/sketchfab.png",
+        "keywords" : ["sketchfab.com"]
+    },
+    {
+        "type" : "Adobe Portfolio",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/adobe.png",
+        "keywords" : ["portfolio.adobe.com"]
+    },
+    {
+        "type" : "Cargo Collective",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/cargo.png",
+        "keywords" : ["cargo.site"]
+    },
+    {
+        "type" : "Muck Rack",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/muckrack.png",
+        "keywords" : ["muckrack.com"]
+    },
+    {
+        "type" : "TikTok",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/tiktok.png",
+        "keywords" : ["tiktok.com"]
+    },
+    {
+        "type" : "Discord",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/discord.png",
+        "keywords" : ["discord.com"]
+    },
+    {
+        "type" : "Other",
+        "icon" : "https://mapout-images.s3.us-east-2.amazonaws.com/social-icons/other.png"
+    }
+]

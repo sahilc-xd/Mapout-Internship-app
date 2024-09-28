@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "8427177136",
+    "project_id": "mapout-app-5b85e",
+    "storage_bucket": "mapout-app-5b85e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8427177136:android:98856f19d6a80d37842775",
+        "android_client_info": {
+          "package_name": "com.mapout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8427177136-bhipsnv62m5jcpedqkid8teh8f1m92p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapout",
+            "certificate_hash": "6ab87fd7a26eb2675378118b8c2ad763ab19edd6"
+          }
+        },
+        {
+          "client_id": "8427177136-efv4q3q5kna5ou8n0073lo4a14m8pl8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapout",
+            "certificate_hash": "f4c1d63c75476a14fff922a13eebbfe49fc63494"
+          }
+        },
+        {
+          "client_id": "8427177136-n4cibk8k8afootkv7ven46d79oj79ag6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapout",
+            "certificate_hash": "5803830ab331a07616c59e16287beed8eb314b7d"
+          }
+        },
+        {
+          "client_id": "8427177136-02netuppn41lud5l61146f07td82l3j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKibBFEWET4lecQ24Q-2OnaN-9LSuzFHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8427177136-02netuppn41lud5l61146f07td82l3j8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8427177136-heh2o8h8q1o7irrqp5p6t3ogh96aclhg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mapout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
